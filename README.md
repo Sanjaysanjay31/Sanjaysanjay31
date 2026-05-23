@@ -1,11 +1,11 @@
 <!-- GitHub Profile README — Sanjay Katta -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:02daed,50:5072ed,100:0a0a23&height=260&section=header&text=Sanjay%20Katta&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A8%20Full%20Stack%20Developer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Builder%20of%20Ideas&descSize=18&descAlignY=60&animation=twinkling" width="100%" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02daed,50:5072ed,100:0a0a23&height=260&section=header&text=Sanjay%20Katta&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A8%20Full%20Stack%20Developer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Builder%20of%20Ideas&descSize=18&descAlignY=60&animation=twinkling" width="100%" alt="header banner" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sanjaysanjay31"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=02DAED&center=true&vCenter=true&multiline=false&width=720&height=45&lines=Turning+logic+into+clean+code+%F0%9F%92%BB;Turning+data+into+decisions+%F0%9F%93%8A;Turning+ideas+into+products+%F0%9F%9A%80" alt="tagline" /></a>
+  <a href="https://github.com/Sanjaysanjay31"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=5072ed&center=true&vCenter=true&multiline=false&width=720&height=45&lines=Turning+logic+into+clean+code+%F0%9F%92%BB;Turning+data+into+decisions+%F0%9F%93%8A;Turning+ideas+into+products+%F0%9F%9A%80" alt="tagline" /></a>
 </p>
 
 <h1 align="center">✨ From Code to Insights — Welcome, I'm <span style="font-family:monospace;">Sanjay</span></h1>
